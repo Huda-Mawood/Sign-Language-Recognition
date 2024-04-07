@@ -18,9 +18,10 @@ This project focuses on building a machine learning model to recognize sign lang
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
+Clone the repository:
 
 open git bash
+
 git clone https://github.com/Huda-Mawood/Sign-Language-Recognition.git
 
 1.1 Open Visual Studio Code (VS Code).
@@ -28,7 +29,9 @@ git clone https://github.com/Huda-Mawood/Sign-Language-Recognition.git
 1.2 Open the cloned repository folder in VS Code:
 
 Click on "File" in the menu.
+
 Select "Open Folder..."
+
 Navigate to the folder where you cloned the repository and select it.
 
 1.3 Install the required dependencies:
