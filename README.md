@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-```bash
+open git bash
 git clone https://github.com/Huda-Mawood/Sign-Language-Recognition.git
 1.1 Open Visual Studio Code (VS Code).
 
@@ -31,7 +31,7 @@ Navigate to the folder where you cloned the repository and select it.
 
 1.3 Install the required dependencies:
 Open a terminal within VS Code by selecting "Terminal" > "New Terminal" from the menu.
-pip install -r requirements.txt
+pip install -r requirements.txt.
 
 ## Usage
 To use the Sign Language Recognition system:
