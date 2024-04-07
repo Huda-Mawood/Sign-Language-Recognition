@@ -48,7 +48,8 @@ Fork the repository.
 This project is licensed under the MIT License.
 
 This repository proposes an implementation of a Sign Recognition Model using the MediaPipe library for landmark extraction and Dynamic Time Warping (DTW) as a similarity metric between signs.
-![Uploading example.gif…]()
+![Alt Text](Uploading example.gif)
+
 
 
 
