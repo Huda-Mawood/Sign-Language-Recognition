@@ -33,7 +33,7 @@ Navigate to the folder where you cloned the repository and select it.
 Open a terminal within VS Code by selecting "Terminal" > "New Terminal" from the menu.
 pip install -r requirements.txt
 
-##Usage
+## Usage
 To use the Sign Language Recognition system:
 
 1.Ensure you have Python installed on your system.
@@ -41,7 +41,7 @@ To use the Sign Language Recognition system:
 2.Navigate to the project directory in the VS Code terminal:
    cd Sign-Language-Recognition
 
-##Contributing
+## Contributing
 Fork the repository.
 
 ##License
