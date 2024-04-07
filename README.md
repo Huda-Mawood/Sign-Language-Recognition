@@ -40,6 +40,9 @@ Open a terminal within VS Code by selecting "Terminal" > "New Terminal" from the
 
 pip install -r requirements.txt.
 
+1.4 load dataset
+Take the path of the dataset on your device and replace it with path in the output_directory
+
 ## Usage
 To use the Sign Language Recognition system:
 
